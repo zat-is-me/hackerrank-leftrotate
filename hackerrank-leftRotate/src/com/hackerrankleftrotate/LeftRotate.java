@@ -1,5 +1,10 @@
 package com.hackerrankleftrotate;
 
+/*Auther Tatek Ahmed
+  Discribtion:-
+  	The program will break the give array of number
+	and rotate to the left at the given value.
+*/
 
 public class LeftRotate {
 	public static void main(String[] args) {
