@@ -4,6 +4,8 @@ package com.hackerrankleftrotate;
   Discribtion:-
   	The program will break the give array of number
 	and rotate to the left at the given value.
+	example, {1,2,3,4,5} -> {3,4,5,1,2} 
+			  2 is give number
 */
 
 public class LeftRotate {
